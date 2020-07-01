@@ -1,0 +1,33 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 20px;
+}
+
+.card {
+  margin: 10px 0px 10px 0px;
+}
+
+.searchView {
+  margin: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.field {
+  flex: 1;
+}
+
+.value {
+  flex: 2;
+}
+
+.row {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.placeholder {
+  color: #bdbdbd;
+}
